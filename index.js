@@ -7,3 +7,12 @@ if (guestList.includes(guestName)) {
 } else {
     prompt("Sorry, next time!");
 }
+
+var output = [];
+var coundt = 1;
+function fizzBuzz() {
+    output.push(count);
+
+
+    console.log(output);
+}
